@@ -10,7 +10,7 @@
 
 [jonssonyan](https://jonssonyan.com)
 
-# 脚本推荐
+# 脚本推荐.
 
 > [Greasy Fork](https://greasyfork.org/zh-CN)
 
